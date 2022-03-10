@@ -1,1 +1,0 @@
-# aws_bot_mongohjw1lxi
